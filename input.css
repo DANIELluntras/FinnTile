@@ -139,7 +139,8 @@ margin: 10px;
 }
 
 .pese{
-margin: 15px;
+margin: 0px;
+margin-top:10px ;
 }
 .Logoper{
 margin-bottom: 30px;
@@ -148,11 +149,6 @@ margin-bottom: 30px;
 }
 .paragraf-sec1{
 font-size: 15px;
-
-
-
-
-
 }
 
 .contain{
@@ -226,11 +222,6 @@ padding-top:150px ;
 	top: 90%;
 	position: absolute;
 }
-
-
-
-
-
 
   .highlight {
     position: relative;
